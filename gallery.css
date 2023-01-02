@@ -1,0 +1,25 @@
+body{
+    margin-left: 0px;
+}
+div{
+    background-color:black;
+    border: 5px solid white;
+    width: 22%;
+    height: 500px;
+    float: left;
+    color: aqua;
+    /* padding-left: 30px; */
+}
+h1{
+    color: antiquewhite;
+    padding-left: 30px;
+    text-align: center;
+    
+}
+img{
+    width: 100%;
+
+}
+p{
+    padding-left: 30px;
+}
